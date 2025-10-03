@@ -20,7 +20,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Retos 1 y 2 :)</ThemedText>
+        <ThemedText type="title">Retoos 1 y 2 :)</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
